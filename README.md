@@ -1,4 +1,4 @@
-# Wordled (Basic Version)
+# Wordle (Basic Version)
 
 This Python code is a basic vesion of the Wordle 5-Letter words game in english language
 
